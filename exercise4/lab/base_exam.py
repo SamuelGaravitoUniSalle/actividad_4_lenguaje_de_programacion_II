@@ -188,8 +188,8 @@ class Exam(ABC):
         if self._value < minimum:
             return "bajo"
         if self._value > maximum:
-            return "normal"
-        return "alto"
+            return "alto"
+        return "normal"
 
     def _require_result(self):
         """Verifica que exista un resultado.
