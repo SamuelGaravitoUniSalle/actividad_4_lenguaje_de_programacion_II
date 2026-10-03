@@ -15,3 +15,7 @@ En el archivo `main.py` se encuentran los cuatro ejercicios, cada uno implementa
 ## Aclaración sobre el uso de IA (Disclaimer)
 
 La Inteligencia Artificial fue utilizada como herramienta de asistencia tecnológica, específicamente para realizar correcciones de estilo en la documentación y para la generación de datos de prueba aplicados en los casos de testeo.
+
+## Video Explicativo
+
+En el siguiente link encontraras el video explicativo de la actividad: [Ver video explicativo](https://www.youtube.com/watch?v=3o5u7bNYiMA)
