@@ -1,0 +1,3 @@
+from exercise3.hospital_roles.hospital_roles import Exercise3Patient
+from exercise3.medication.medications import CommonMedication, ControlledMedication, Antibiotic
+from exercise3.medication.base_medication import Medication

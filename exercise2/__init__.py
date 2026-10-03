@@ -1,0 +1,1 @@
+from exercise2.hospital_roles import RestrictedPatient
